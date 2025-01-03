@@ -12,5 +12,5 @@ I am an student Computer science and Engineering student at UTN. C++, Javascript
 - 🌱 I’m currently learning ...
   - Tailwind
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👯 I’m looking forward to collaborate on open source projects and get a job
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
