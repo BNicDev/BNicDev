@@ -1,37 +1,52 @@
-<h1 align="center">
-Hi, I'm Nicolas Pizarro!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+# Hi, I'm Brian Nicolas Pizarro 👋
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+**Fullstack Developer** · Buenos Aires, Argentina · Open to remote opportunities
 
-I am an student Computer science and Engineering student at UTN. C++, Javascript, HTML, CSS, JS and ReactJs are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Tailwind
-  - React js
-  - Typescript
-- 👯 I’m looking forward to collaborate on open source projects and get a job
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- 📫 Reach out to me at: <a href="nico05pizarro10@gmail.com">nico05pizarro10@gmail.com</a>
+I'm a frontend developer with solid experience in HTML, CSS, JavaScript, and React, currently expanding into backend development with Node.js and Express. I'm passionate about building clean, functional interfaces and learning how to connect them to robust server-side systems.
 
-## My Skills Include
+Currently studying Computer Science and Engineering at **UTN**.
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  
-</span>
+---
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  
-</span>
+## 🛠 Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend (learning)**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 What I'm Working On
+
+- Building fullstack projects with **React + Node.js + PostgreSQL**
+- Learning **REST API design**, authentication with JWT, and database modeling
+- Looking for my first professional role as a **Junior Fullstack / Frontend Developer**
+
+---
+
+## 📌 Featured Projects
+
+> *(Coming soon — fullstack projects in progress)*
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-nicol%C3%A1s-pizarro/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nico05pizarro10@gmail.com)
+
+---
+
+*Eager to contribute, learn fast, and build things that work.*
